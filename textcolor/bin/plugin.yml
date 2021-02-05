@@ -1,0 +1,8 @@
+main: me.dreas.textcolor.Main
+name: textcolor
+version: 1.0
+author: Dreas
+
+commands:
+  textcolor:
+    description: Changes textcolor of message being sent
